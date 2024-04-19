@@ -1,0 +1,22 @@
+{
+  "name": "010words_counter_app",
+  "version": "2.0.3",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "000words-counter-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
